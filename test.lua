@@ -42,7 +42,7 @@ local Aiming = {
     Enabled = true,
 
     ShowFOV = true,
-    FOV = 6,
+    FOV = 8,
     FOVSides = 1,
     FOVColour = Color3fromRGB(231, 84, 128),
 
